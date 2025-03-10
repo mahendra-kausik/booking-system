@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Manjusha sports club",
+        "imgURLs": [
+            "https://playo.gumlet.io/MANJUSHASPORTSCLUB20190703102728230755/manjushasportsclub0.jpeg?w=700&format=webp&q=30&overlay=https://playo-website.gumlet.io/playo-website-v2/logos-icons/playo-logo.png&overlay_width_pct=0.2&overlay_height_pct=1&overlay_position=bottomright",
+            "https://playo.gumlet.io/MANJUSHASPORTSCLUB20190703102728230755/manjushasportsclub1.jpeg?w=700&format=webp&q=30&overlay=https://playo-website.gumlet.io/playo-website-v2/logos-icons/playo-logo.png&overlay_width_pct=0.2&overlay_height_pct=1&overlay_position=bottomright",
+            "https://playo.gumlet.io/MANJUSHASPORTSCLUB20190703102728230755/manjushasportsclub2.jpeg?w=700&format=webp&q=30&overlay=https://playo-website.gumlet.io/playo-website-v2/logos-icons/playo-logo.png&overlay_width_pct=0.2&overlay_height_pct=1&overlay_position=bottomright"
+        ],
+        "price": 250,
+        "type": "Indoor",
+        "maxPlayers": 4,
+        "currentBookings": [],
+        "location": "SSG print and packs, V Legacy Rd, Aditya Layout, Rajarajeshwari Nagar, Bengaluru, Karnataka 560098",
+        "description": "Non-Marking Shoes Compulsory"
+    },
+    {
+        "name": "Sky Sports Arena",
+        "imgURLs": [
+            "https://playo.gumlet.io/SKYSPORTSARENA20221205055508980700/skysportsarena1671730626980.jpeg?w=700&format=webp&q=30&overlay=https://playo-website.gumlet.io/playo-website-v2/logos-icons/playo-logo.png&overlay_width_pct=0.2&overlay_height_pct=1&overlay_position=bottomright",
+            "https://playo.gumlet.io/SKYSPORTSARENA20221205055508980700/SkySportsArena1677177184063.jpeg?w=700&format=webp&q=30&overlay=https://playo-website.gumlet.io/playo-website-v2/logos-icons/playo-logo.png&overlay_width_pct=0.2&overlay_height_pct=1&overlay_position=bottomright",
+            "https://playo.gumlet.io/SKYSPORTSARENA20221205055508980700/skysportsarena1671730681914.jpeg?w=700&format=webp&q=30&overlay=https://playo-website.gumlet.io/playo-website-v2/logos-icons/playo-logo.png&overlay_width_pct=0.2&overlay_height_pct=1&overlay_position=bottomright"
+        ],
+        "price": 250,
+        "type": "Indoor",
+        "maxPlayers": 4,
+        "currentBookings": [],
+        "location": "38, H V halli Raja Rajeshwari Nagar, Adjacent to Prestige Bagamane Temple Bells apartment, Bengaluru - 560098",
+        "description": " Non Marking Shoes compulsory for Badminton, Sports equipment available on rent: Rackets and Shoes. "
+    },
+    {
+        "name": "Dolphin Swimming Pool",
+        "imgURLs": [
+            "https://playo.gumlet.io/DOLPHINSWIMMINGPOOL20230819113637197515/dolphinswimmingpool1692444970582.jpeg?w=700&format=webp&q=30&overlay=https://playo-website.gumlet.io/playo-website-v2/logos-icons/playo-logo.png&overlay_width_pct=0.2&overlay_height_pct=1&overlay_position=bottomright",
+            "https://playo.gumlet.io/DOLPHINSWIMMINGPOOL20230819113637197515/DolphinSwimmingPool1692950670326.jpeg?w=700&format=webp&q=30&overlay=https://playo-website.gumlet.io/playo-website-v2/logos-icons/playo-logo.png&overlay_width_pct=0.2&overlay_height_pct=1&overlay_position=bottomright",
+            "https://playo.gumlet.io/DOLPHINSWIMMINGPOOL20230819113637197515/dolphinswimmingpool1692444979565.jpeg?w=700&format=webp&q=30&overlay=https://playo-website.gumlet.io/playo-website-v2/logos-icons/playo-logo.png&overlay_width_pct=0.2&overlay_height_pct=1&overlay_position=bottomright"
+        ],
+        "price": 225,
+        "type": "Indoor",
+        "maxPlayers": 1,
+        "currentBookings": [],
+        "location": "38, H V halli Raja Rajeshwari Nagar, Adjacent to Prestige Bagamane Temple Bells apartment, Bengaluru - 560098",
+        "description": "Swimming attire is compulsory, Swimming caps and goggles are mandatory."
+    },
+    {
+        "name": "Sports1 Badminton Academy",
+        "imgURLs": [
+            "https://playo.gumlet.io/SPORTSALLEYSAMPANGIRAMNAGAR/Sports1BadmintonAcademySapthagiriNagar1722517953794.jpg?w=700&format=webp&q=30&overlay=https://playo-website.gumlet.io/playo-website-v2/logos-icons/playo-logo.png&overlay_width_pct=0.2&overlay_height_pct=1&overlay_position=bottomright",
+            "https://playo.gumlet.io/SPORTSALLEYSAMPANGIRAMNAGAR/Sports1BadmintonAcademySapthagiriNagar1722517971826.jpg?w=700&format=webp&q=30&overlay=https://playo-website.gumlet.io/playo-website-v2/logos-icons/playo-logo.png&overlay_width_pct=0.2&overlay_height_pct=1&overlay_position=bottomright",
+            "https://playo.gumlet.io/SPORTSALLEYSAMPANGIRAMNAGAR/Sports1BadmintonAcademySapthagiriNagar1722517962750.jpg?w=700&format=webp&q=30&overlay=https://playo-website.gumlet.io/playo-website-v2/logos-icons/playo-logo.png&overlay_width_pct=0.2&overlay_height_pct=1&overlay_position=bottomright"
+        ],
+        "price": 175,
+        "type": "Indoor",
+        "maxPlayers": 1,
+        "currentBookings": [],
+        "location": "#7, 2nd Main, Mookambika Nagar, Hosakerehalli, BSK 3rd Stage, Near Tata Promont, Bangalore - 560085",
+        "description": "25 Meters Mini Olympic size Standard Pool, Depth 6 feet"
+    },
+    {
+        "name": "Classic Sports Academy",
+        "imgURLs": [
+            "https://playo.gumlet.io/CLASSICSPORTSACADEMYUTARAHALLI20241109171842638407/ClassicSportsAcademyUtarahalli1731173117980.jpg?w=700&format=webp&q=30&overlay=https://playo-website.gumlet.io/playo-website-v2/logos-icons/playo-logo.png&overlay_width_pct=0.2&overlay_height_pct=1&overlay_position=bottomright",
+            "https://9sportz.com/_next/image?url=https%3A%2F%2Fcdn.9sportz.com%2Fwebcontent%2Fupload%2Fgallery%2Fclassic-sports-cricket-academy_119.jpg&w=1920&q=75",
+            "https://playo.gumlet.io/CLASSICSPORTSACADEMYUTARAHALLI20241109171842638407/ClassicSportsAcademyUtarahalli1731173125021.jpg?w=700&format=webp&q=30&overlay=https://playo-website.gumlet.io/playo-website-v2/logos-icons/playo-logo.png&overlay_width_pct=0.2&overlay_height_pct=1&overlay_position=bottomright"
+        ],
+        "price": 1300,
+        "type": "Outdoor",
+        "maxPlayers": 10,
+        "currentBookings": [],
+        "location": "98/4 Dr. Vishnuvardhan Road, Near Rajathadri Hotel, Panchavati Sambram Layout, Utarahalli",
+        "description": " It is recommended but not compulsory to wear football studs while playing at the facility."
+    },
+    {
+        "name": "TurfKlub Sporting Arena",
+        "imgURLs": [
+            "https://playo.gumlet.io/TURFKLUBSPORTINGARENA20240527125422261597/turfklubsportingarena1716812558316.jpg?w=700&format=webp&q=30&overlay=https://playo-website.gumlet.io/playo-website-v2/logos-icons/playo-logo.png&overlay_width_pct=0.2&overlay_height_pct=1&overlay_position=bottomright",
+            "https://playo.gumlet.io/TURFKLUBSPORTINGARENA20240527125422261597/turfklubsportingarena1716814074787.jpg?w=700&format=webp&q=30&overlay=https://playo-website.gumlet.io/playo-website-v2/logos-icons/playo-logo.png&overlay_width_pct=0.2&overlay_height_pct=1&overlay_position=bottomright",
+            "https://playo.gumlet.io/TURFKLUBSPORTINGARENA20240527125422261597/turfklubsportingarena1716812570378.jpg?w=700&format=webp&q=30&overlay=https://playo-website.gumlet.io/playo-website-v2/logos-icons/playo-logo.png&overlay_width_pct=0.2&overlay_height_pct=1&overlay_position=bottomright"
+        ],
+        "price": 1600,
+        "type": "Outdoor",
+        "maxPlayers": 14,
+        "currentBookings": [],
+        "location": "30, Dr Arunachalam Road, Stage 4, Rajarajeshwari Nagar, Bengaluru, Karnataka - 560098",
+        "description": "It is recommended but not compulsory to wear football studs while playing at the facility."
+    }
+]
